@@ -5,7 +5,7 @@ import br.com.dio.persistence.entity.BoardColumnKindEnum;
 import br.com.dio.persistence.entity.BoardEntity;
 import br.com.dio.service.BoardQueryService;
 import br.com.dio.service.BoardService;
-
+ 
 import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
