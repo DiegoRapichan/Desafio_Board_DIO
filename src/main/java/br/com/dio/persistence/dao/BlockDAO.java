@@ -1,7 +1,7 @@
 package br.com.dio.persistence.dao;
 
 import lombok.AllArgsConstructor;
-
+ 
 import java.sql.Connection;
 import java.sql.SQLException;
 import java.time.OffsetDateTime;
