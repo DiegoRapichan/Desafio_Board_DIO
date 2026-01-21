@@ -7,7 +7,7 @@ import lombok.ToString;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.function.Predicate;
-
+ 
 import static br.com.dio.persistence.entity.BoardColumnKindEnum.CANCEL;
 import static br.com.dio.persistence.entity.BoardColumnKindEnum.INITIAL;
 
