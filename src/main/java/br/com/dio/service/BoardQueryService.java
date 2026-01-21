@@ -5,7 +5,7 @@ import br.com.dio.persistence.dao.BoardColumnDAO;
 import br.com.dio.persistence.dao.BoardDAO;
 import br.com.dio.persistence.entity.BoardEntity;
 import lombok.AllArgsConstructor;
-
+ 
 import java.sql.Connection;
 import java.sql.SQLException;
 import java.util.Optional;
