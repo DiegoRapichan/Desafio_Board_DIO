@@ -1,5 +1,5 @@
 package br.com.dio.persistence.entity;
-
+ 
 import lombok.Data;
 
 import java.time.OffsetDateTime;
