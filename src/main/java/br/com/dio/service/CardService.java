@@ -1,5 +1,5 @@
 package br.com.dio.service;
-
+ 
 import br.com.dio.dto.BoardColumnInfoDTO;
 import br.com.dio.exception.CardBlockedException;
 import br.com.dio.exception.CardFinishedException;
