@@ -3,7 +3,7 @@ package br.com.dio.persistence.entity;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
 import lombok.ToString;
-
+ 
 import java.util.ArrayList;
 import java.util.List;
 
