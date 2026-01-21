@@ -3,7 +3,7 @@ package br.com.dio.service;
 import br.com.dio.persistence.dao.BoardColumnDAO;
 import br.com.dio.persistence.entity.BoardColumnEntity;
 import lombok.AllArgsConstructor;
-
+ 
 import java.sql.Connection;
 import java.sql.SQLException;
 import java.util.Optional;
