@@ -5,7 +5,7 @@ import br.com.dio.persistence.entity.BoardColumnEntity;
 import br.com.dio.persistence.entity.CardEntity;
 import com.mysql.cj.jdbc.StatementImpl;
 import lombok.RequiredArgsConstructor;
-
+ 
 import java.sql.Connection;
 import java.sql.SQLException;
 import java.util.ArrayList;
